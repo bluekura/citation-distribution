@@ -8,7 +8,7 @@ Jinhyuk Yun, Sejung Ahn, June Young Lee, "On the Heterogeneous Distributions in 
 * Numpy (> 1.10) & Scipy (> 1.0)
 * Pandas (> 0.20)
 * Jupyter Notebook (> 5.0.0) or Jupyter Lab (> 0.18.0)
-
+* Matplotlib (> 2.0)
 
 ## Data
 ### Non-public data
